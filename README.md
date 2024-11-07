@@ -5,12 +5,17 @@ Reporte y dashboard para analizar las ventas del call center de Findii S.A., cue
 Contiene una barra de filtros como lo son, el estado, agente, la compañia, mes, lider y año, ademas se puede evidenciar en las graficas el todal de las ventas por estado, estado y compañia, por mes, ventas en general y otras.
 *Dashboard*
 Cuenta con tres paginas, la principal con informacion basica y la de datos y estadisticas.
-
-<h3>Pagina principal</h3>
+*Pagina principal*
 ![image](https://github.com/user-attachments/assets/30479752-b873-45a2-b8d4-1ce8d5edb1e4)
-
-<h3>Pagina Datos</h3>
+*Pagina Datos*
 ![image](https://github.com/user-attachments/assets/3e980cbe-a172-4f77-a9b5-ccc2d1955bb7)
-
-<h3>Pagina Estadísticas</h3>
+*Pagina Estadísticas*
 ![image](https://github.com/user-attachments/assets/d0ef530a-e36b-42d7-b7e4-0a1fbc937121)
+
+
+
+
+
+
+
+
